@@ -1,0 +1,19 @@
+يساعدك بوت **Postlink** على نشر سيرفرك
+في ديسكورد بلا حدود إطلاقاً.. جربه الان :star_struck:!
+
+أوامر **Postlink** العامة :busts_in_silhouette: 
+> **-setchannel** : تعيين روم النشر
+> **-post** : نشر السيرفر
+> **-setlanguage** : تعين لُغة البوت
+> **-botinfo** : معلومات البوت
+> **-ping** : سرعة اتصال البوت
+> **-help** : قائمة الاوامر
+
+  :camping: **Premium** إشتراك 
+> **-premium** : معرفة مدة الاشتراك
+> **-autopos**t : نشر تلقائي كل 6 ساعات
+> **-custmPrefix** : لتغيير البرفكس الخاص بالسيرفر
+
+فماذا تنتظر! أضفه الأن وانُشر سيرفرك.
+:package: : [ https://bit.ly/2SHzk90 ]
+**Support :** discord.gg/yjJK5hf
