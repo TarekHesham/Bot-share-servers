@@ -1,0 +1,25 @@
+{
+  "name": "Kazuko",
+  "version": "1.6.0",
+  "description": "It is an assistant bot for Team Kazuko.",
+  "main": "server.js",
+  "author": "◥🆃🅸◣•◢🅃🄾◤",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "cheerio": "^0.22.0",
+    "http": "^0.0.0",
+    "request": "^2.88.2",
+    "npm": "^6.14.8",
+    "node-fetch": "^2.6.1",
+    "fs": "^0.0.2",
+    "pretty-ms": "^7.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
